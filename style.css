@@ -1,0 +1,121 @@
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    
+}
+
+body{
+direction: rtl;
+background:linear-gradient(45deg,#240165,#05001c);
+font-family: "Tajawal", sans-serif;
+
+}
+
+
+#City-name{
+    font-weight: 400;
+    font-size: 100px;
+    color: white;
+
+}
+
+.City{
+    
+    color: white;
+    margin-right: 40px;
+}
+
+
+
+
+#date{
+    font-weight: 200;
+    font-size: 40px;
+}
+
+
+
+hr{
+margin: 0px 40px;
+border-color:#5200e1;
+
+}
+
+.date-City{
+    margin-top: 50px;
+    
+}
+.cards{
+height: 250px;
+margin-top: 20px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.card{
+
+width: 14%;
+height: 90%;
+
+background-color: white;
+font-size: 20px;
+box-shadow: 0px 10px 5px rgb(0 0 0 / 30);
+
+
+
+
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+.time{
+font-size: 50px;
+
+}
+.body{
+
+
+
+}
+.header{
+background: linear-gradient(45deg,#5709ee,#7a37bf);
+color: white;
+padding: 5px;
+
+}
+.header h1{
+    font-weight: 400;
+}
+
+
+
+
+.p{
+    width:300px;
+    height: 35px;
+    font-size: 25px;
+    font-family: "Tajawal", sans-serif;
+    background:linear-gradient(45deg,#240165,#05001c);
+    background-color:#23065a;
+    color: white;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
